@@ -1,0 +1,11 @@
+<assembly>
+  <dependencySets>
+    <dependencySet>
+      <includes>
+        <include>com.kuhnash.spring.admin:spring-admin</include>
+      </includes>
+      <outputDirectory>.</outputDirectory>
+      <outputFileNameMapping>spring-admin.jar</outputFileNameMapping>
+    </dependencySet>
+  </dependencySets>
+</assembly>
